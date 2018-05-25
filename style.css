@@ -1,0 +1,51 @@
+#div1{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top:80px;
+    left:100px;
+}
+
+#div2{
+    background-color: purple;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    bottom: 140px;
+    left:180px;  
+}
+
+#div3{
+    background-color: yellow;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    bottom: 290px;
+    left:180px;  
+}
+
+#blue{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: -100px;
+    left:100px; 
+
+}#green{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    bottom: 320px;
+    left:180px;  
+
+}#black{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    bottom: 550px;
+    left:100px;  
+}
